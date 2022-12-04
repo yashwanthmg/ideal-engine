@@ -1,3 +1,5 @@
+## CREDITS: Repo cloned from andrewjong
+
 # ShineOn: Illuminating Design Choices for Practical Video-based Virtual Clothing Try-on
 
 [ [Paper](https://arxiv.org/abs/2012.10495) ] [ [Project Page](https://gauravkuppa.github.io/publication/2021-01-09-shine-on-1) ]
