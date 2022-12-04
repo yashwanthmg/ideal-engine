@@ -48,7 +48,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📝 Projects i have worked on
 
-<h2> 
+<h3 align ="left"> 
   
 # USI Portfolio & Vendor Inbound Guidelines
 SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). Yashwanth started leading the USI (Unsellable Inventory management) portfolio. He set up weekly mechanism with FC to identify ASIN level causes of unsellable inventory. He identified 2 major reasons of USI- a) MRP tags missing in the products either via C-return route or during supply from vendors b) minor refurbishment pending with FC for the c-return products. He worked with all 13 vendors to supply separate MRP tags to FC for monthly correction of inventory. His findings also lead to modification of our Inbound and packaging vendor training deck to avoid “MRP tag misses” during vendor’s packaging process. Due to his efforts, USI% decreased to 0.08% in WK 39 (sep’22 exit).
@@ -85,7 +85,7 @@ Due to seller knowledge gap or compliance cases from FOS sellers were adding inc
  
 # Digital Marketing & Brand Awareness campaign
 
-</h2> 
+</h3> 
 
 ## 📈 Activities & Recognitions
 
