@@ -103,6 +103,6 @@ Due to seller knowledge gap or compliance cases from FOS sellers were adding inc
 
 - Team with highest sellers onboarded in a day 
 - Promoted for 
-- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274">
+- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea</a>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
