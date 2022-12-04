@@ -1,18 +1,4 @@
-# STATUS AS OF SEPTEMBER 4 2020
-Hi all, thank you for your interest in my replication of this baseline! Since this repository seems to be generating a lot of traffic under issues, I just wanted to comment that I'm currently **not** able to maintain this repository. I'm working on a separate virtual try-on publication+codebase which I hope to release by next month (October). I welcome and will merge good PRs, but I won't be able to resolve issues for the time being. Thanks for understanding!
-
-# SwapNet
-**Community PyTorch reproduction of SwapNet.**
-
-<p align="center">
-<img src="media/example.png" alt="SwapNet example" width=600>
-<img src="media/diagram.png" alt="SwapNet diagram" width=600>
-</p>
-
-For more than a year, I've put all my efforts into reproducing [SwapNet (Raj et al. 2018)](http://www.eye.gatech.edu/swapnet/paper.pdf). Since an official codebase has not been released, by making my implementation public, I hope to contribute to transparency and openness in the Deep Learning community.
-
-## Contributing
-I'd welcome help to improve the DevOps of this project. Unfortunately I have other life priorities right now and don't have much time to resolve these particular issues. If you'd like to contribute, please look for the [help-wanted](https://github.com/andrewjong/SwapNet/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) label in the Issues. Please feel free to email me for questions as well.
+CREDITS: Repo cloned from andrewjong
 
 # Installation
 
