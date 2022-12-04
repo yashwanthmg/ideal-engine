@@ -7,10 +7,10 @@ Hi there, I'm Yashwanth MG 👋
 </h3>
 
 <h2 align="center">
-I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a !
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love 
 
 ### 🤝 Connect with me:
 
