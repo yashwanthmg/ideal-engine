@@ -28,9 +28,21 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🌱 I'm currently learning
 
 - Six Sigma Black Belt
-- Data mining & analysis
+- Data mining & analysis (SQL, ETL Manager etc)
 
-## 💼 Technical Skills
+## 💼 amazon tools i have used
+
+- Selection Central (ASIN Porting, Attributes changes, Data extraction)
+- Bento (New POs)
+- Procurement Portal (PO modification)
+- Trouble ticketing (Raising sims & resolving tt)
+- Unified Portal (Appoinment modification)
+- Jira
+- ETL manager
+- Retail assistant
+- Removals central (USI RTV & Liquidation)
+- Boss (Andon cord)
+- Image Assist- (Image problems)
 
 
 
