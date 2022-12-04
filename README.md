@@ -21,9 +21,10 @@ I love
 ## 🔭 I'm currently working on
 
 - Bulk File Rename Utility
+- ASIN label maker
 - Product content generator
 - Garment swap
-- Virtual Try on
+- Virtual clothes try on
 
 ## 🌱 I'm currently learning
 
