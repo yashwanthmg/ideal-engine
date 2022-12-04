@@ -48,11 +48,13 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📝 Projects i have worked on
 
-<h3 align ="left"> 
-  
+<h4 align ="left">   
 # USI Portfolio & Vendor Inbound Guidelines
 SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). Yashwanth started leading the USI (Unsellable Inventory management) portfolio. He set up weekly mechanism with FC to identify ASIN level causes of unsellable inventory. He identified 2 major reasons of USI- a) MRP tags missing in the products either via C-return route or during supply from vendors b) minor refurbishment pending with FC for the c-return products. He worked with all 13 vendors to supply separate MRP tags to FC for monthly correction of inventory. His findings also lead to modification of our Inbound and packaging vendor training deck to avoid “MRP tag misses” during vendor’s packaging process. Due to his efforts, USI% decreased to 0.08% in WK 39 (sep’22 exit).
-SWOOS% reduction
+</h4>
+  
+<h4 align ="left">
+# SWOOS% reduction
 90% of SL brands faced MOQ/FTL issues in supplying lower quantities and lead to non-fulfillment of replenishment POs. This, combined with the sales spike due to price reduction lead to 35% replen swoos% in Aug’22. Since onboarding of alternate options like enablement of ATS, SWA etc were a long pole, Yashwanth quickly onboarded brands on SPN (Service Provider Network) service which connects 3P logistics partners to the brand.  90% of the brands facing MOQ issues on SPN (8 out of 9 brands facing issues) was onboarded in a span of 40 days, thus reducing Replen SWOOS% by 1100 bps (from 35% in Aug’22 to 24% in Sep’22).
 Size chart expansion & PSR Sample activity
 owning and executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs.
