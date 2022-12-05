@@ -21,11 +21,11 @@ I love
 
 ## 🔭 I'm currently working on
 
-- Bulk File Rename Utility
-- ASIN label maker
-- Product content generator
-- Garment swap
-- Virtual clothes try on
+- Bulk File Rename Utility -  <a href="" target="_blank" rel="noreferrer">Read more</a>
+- ASIN label maker -  <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Product content generator -  <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Garment swap -  <a href="" target="_blank" rel="noreferrer">Read more</a> 
+- Virtual clothes try on -  <a href="" target="_blank" rel="noreferrer">Read more</a>
 
 ## 🌱 I'm currently learning
 
