@@ -100,12 +100,14 @@ The existing mechanism for capturing FOS visits was very inefficient and not pro
 </h4>
 Company: Prione Manager: Pratheik Singh
 
+Fake on-boarding's was a major concern as this was a spillover to other projects like order cancellation, account deactivation and loss of time & resources. Based on deep dive data worked on an SOP and created a auditing tracker to determine the authenticity of the seller oboarded in real time. This idea was later improvised and implemented with other sales team across India.
+
 
 <h4 align ="left">
 # Account Re-activation, Cancellation & Return rate reduction
 </h4>
 
-Due to seller knowledge gap or compliance cases from FOS sellers were adding incorrect products / Quantites or not aware of SOP for order confirmation & delivery lead to high order cancellations & returns & some accounts were suspended due to amazon policies.
+Due to seller knowledge gap or compliance cases from FOS sellers were adding incorrect products / Quantites or not aware of SOP for order confirmation & delivery lead to high order cancellations & returns & some accounts were suspended due to amazon policies. Decreased order cancellation & return rate to 20% by creating seller awareness & regular daily followups and 3 out of 10  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
 
 
 <h4 align ="left">
