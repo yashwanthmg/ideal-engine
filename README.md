@@ -26,6 +26,14 @@ I love
 - Garment swap -  <a href="" target="_blank" rel="noreferrer">Read more</a> 
 - Virtual clothes try on -  <a href="" target="_blank" rel="noreferrer">Read more</a>
 
+
+## 📜 Certifications
+
+- Six Sigma White Belt - Aviate institute
+- Google Digital marketing certification
+- Hubspot sales management certification
+- Linkedin Inbound sales
+
 ## 🌱 I'm currently learning
 
 - Six Sigma Black Belt
@@ -44,10 +52,7 @@ I love
 - Removals central (USI RTV & Liquidation)
 - Boss (Andon cord)
 - Image Assist- (Image problems)
-
-## 📜 Certifications
-
-- 
+- FAAST Portal
 
 ## 📝 Projects i have worked on
 
@@ -64,15 +69,19 @@ SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). Yashwanth started l
 Company: amazon distribution Manager: Neha Pathak
 
 90% of SL brands faced MOQ/FTL issues in supplying lower quantities and lead to non-fulfillment of replenishment POs. This, combined with the sales spike due to price reduction lead to 35% replen swoos% in Aug’22. Since onboarding of alternate options like enablement of ATS, SWA etc were a long pole, Yashwanth quickly onboarded brands on SPN (Service Provider Network) service which connects 3P logistics partners to the brand.  90% of the brands facing MOQ issues on SPN (8 out of 9 brands facing issues) was onboarded in a span of 40 days, thus reducing Replen SWOOS% by 1100 bps (from 35% in Aug’22 to 24% in Sep’22).
-Size chart expansion & PSR Sample activity
-owning and executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs.
+
+<h4 align ="left">
+# Size chart expansion & PSR Sample activity
+</h4>
+Company: amazon distribution Manager: Arvind KR
+Worked with vendors & product team to enable size chart for all ASIN. Initially handled PSR sample activity executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs. (Both Project abandoned)
 
 <h4 align ="left">
 # Team expansion, Learning path & training activity
 </h4>
 Company: Prione Manager: Pratheik Singh
 
-During covid the team count was at 4 and with spike in online sales we had to quickly scale up FOS team to onboard more sellers for Bangalore Urban & Rural. I had the opportunity to lead the high-volume full recruitment cycle, from sourcing strategies, talent recruitment and acquisition to interview and onboarding. Reviewed 500+ resumes, interviewed 200+ candidates with quality of hire score 80/100, controlled attrition rate to 5% & reduced average time in hiring to 2 days with consistent communication and follow-ups with staffing partners. Created effective training strategies for seller onboarding including complex technical topics like bulk cataloging, account reinstatement etc. along with instruction documents, videos and mock training sessions and by implementing Kirkpatrick model for the newly hired FOS improved post-training performance, operational effeciency & reduced time to productivity to <5 days.
+During covid the team count was at 4 and with spike in online sales we had to quickly scale up FOS team to onboard more sellers for Bangalore Urban & Rural. I had the opportunity to lead the high-volume full recruitment cycle, from sourcing strategies, talent recruitment and acquisition to interview and onboarding. Reviewed 500+ resumes, interviewed 200+ candidates with quality of hire score 93/100, controlled attrition rate to 5% & reduced average time in hiring to 2 days with consistent communication and follow-ups with staffing partners. Created effective training strategies for seller onboarding including complex technical topics like bulk cataloging, account reinstatement etc. along with instruction documents, videos and mock training sessions and by implementing Kirkpatrick model for the newly hired FOS improved post-training performance, operational effeciency & reduced time to productivity to <5 days.
 
 <h4 align ="left">
 # Selection expansion, Sponsored Ads 
@@ -93,14 +102,14 @@ India's largest retail chains like Vishal mega mart, Uniso, Spar were onboarded 
 </h4>
 Company: Prione Manager: Deepthi Anand
 
-The existing mechanism for capturing FOS visits was very inefficient and not productive and we were not able to capture crucial information about sellers to determine sales metrics. We used sales CRM to accurately tag geolocation of the outlets along with the photos and other important metrics that provide value like geographical area and a specific customer demographic. Using the wide variety of data we were able to make many process improvements and we were able to implement more effective goals and there was increase in 100% in FOS contribution with an increase in daily onboarding of 1
+The existing mechanism for capturing FOS visits was very inefficient and not productive and we were not able to capture relevant information about sellers. Worked with CRM team in implementing FFA which helped us capture crucial sales metrics with deeper insight into patterns of sales, improved customer segmentation, goal progress and also effectively monitoring FOS performance & geo-tagging outlets in real time. Using the wide variety of data we were able to make many process improvements and we were able to create more effective goals and there was 100% increase in FOS contribution post crm implementation.
 
 <h4 align ="left">
 # Auditing mechanism to track fake onboardings
 </h4>
 Company: Prione Manager: Pratheik Singh
 
-Fake on-boarding's was a major concern as this was a spillover to other projects like order cancellation, account deactivation and loss of time & resources. Based on deep dive data worked on an SOP and created a auditing tracker to determine the authenticity of the seller oboarded in real time. This idea was later improvised and implemented with other sales team across India.
+Fake on-boarding's was a major concern as this was a spillover to other projects like order cancellation, account deactivation and loss of time & resources. Based on deep dive data i worked on an SOP and created a auditing tracker to determine the authenticity of the seller in real time even before he was onboarded. This idea was later improvised and implemented by leadership team with other sales team across India.
 
 
 <h4 align ="left">
