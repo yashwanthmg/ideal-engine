@@ -116,7 +116,7 @@ Fake on-boarding's was a major concern as this was a spillover to other projects
 # Account Re-activation, Cancellation & Return rate reduction
 </h4>
 
-Due to seller knowledge high learning curve & FOS compliance cases, sellers were adding incorrect products / Quantites or were not aware of SOP for order confirmation & delivery which lead to high order cancellations & returns & increase in account suspension due to amazon policies. Worked on decreasing order cancellation & return rate to 20% by creating seller awareness & setting up a mechanism for FOS regular daily followups and 3 out of 10  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
+Due to seller steep learning curve & FOS compliance cases, incorrect products / quantites were added which resulted in unfulfilled orders and sellers were not aware of SOP for order confirmation & delivery which lead to ODR cross 20% for some sellers resulting in account suspension. Succesfully reduced ODR to <2% by creating seller awareness & setting up a mechanism for FOS regular daily followups and 3 out of 10  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
 
 
 <h4 align ="left">
@@ -127,12 +127,12 @@ Company: Blubirch Co-Founder: Amit Goel
 ## 📈 Activities & Recognitions
 
 - Award for exceeding monthly & daily quota also team record holder for highest sellers onboarded in a day. 
-- Promoted for Sr. Team Lead for succesfully leading prione projects. 
+- Promoted to Sr. Team Lead for succesfully leading & executing Prione projects. 
 - amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>
 - Nominated for employee of the month for project 1 & 2. 
 
 ### 🤝 Connect with me: 
-<a href="tel:+919535992120"></a><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/b1925e8c877bfc4254ed62a3cd45268aa6991895/images/call.jpg" alt="Yashwanth MG | Phone Number" width="21px"/></a>
+<a href="tel:+919535992120"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/b1925e8c877bfc4254ed62a3cd45268aa6991895/images/call.jpg" alt="Yashwanth MG | Phone Number" width="21px"/></a>
 <a href="https://app.chime.aws/conversations/new?email=mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/6fe48ad830ba499dd0b3ee3e4ea607d05d4ee365/images/chime.jpg" alt="Yashwanth MG | Chime" width="21px"/></a> 
 <a href="mailto:mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/96fc2d4b6f6372d31fc893adb346c3f8dc21b185/images/outlook.jpg" alt="Yashwanth MG | Outlook" width="21px"/></a>
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
