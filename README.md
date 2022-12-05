@@ -8,9 +8,9 @@ Hi there, I'm Yashwanth MG 👋
 
 <p align="center">
 <a href="https://phonetool.amazon.com/users/mmgyashw"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/1a6c91163b099a23531d743e458a6f0abfbaf32f/images/The%20Phone%20tool.jpg" alt="Yashwanth MG | My Phonetool" width="150px"/></a> 
-<h2 align="center">
 </p>
 
+<h2 align="center">
 I'm a !
 </h2> 
 
