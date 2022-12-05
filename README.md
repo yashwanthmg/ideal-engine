@@ -19,10 +19,15 @@ I love
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 </br>
 
-## 🔭 I'm currently working on
+## 💡 My innovations 
 
 - Bulk File Rename Utility -  <a href="" target="_blank" rel="noreferrer">Read more</a>
 - ASIN label maker -  <a href="" target="_blank" rel="noreferrer">Read more</a>
+- 
+
+
+## 🔭 I'm currently working on
+
 - Product content generator -  <a href="" target="_blank" rel="noreferrer">Read more</a>
 - Garment swap -  <a href="" target="_blank" rel="noreferrer">Read more</a> 
 - Virtual clothes try on -  <a href="" target="_blank" rel="noreferrer">Read more</a>
