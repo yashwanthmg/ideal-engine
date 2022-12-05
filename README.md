@@ -133,7 +133,7 @@ Company: Blubirch Co-Founder: Amit Goel
 
 ### 🤝 Connect with me: 
 
-<a href="https://phonetool.amazon.com/users/mmgyashw"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/1a6c91163b099a23531d743e458a6f0abfbaf32f/images/The%20Phone%20tool.jpg" alt="Yashwanth MG | My Phonetool" width="80px"/></a> 
+<a href="https://phonetool.amazon.com/users/mmgyashw"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/1a6c91163b099a23531d743e458a6f0abfbaf32f/images/The%20Phone%20tool.jpg" alt="Yashwanth MG | My Phonetool" width="100px"/></a> 
 <a href="tel:+919535992120"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/b1925e8c877bfc4254ed62a3cd45268aa6991895/images/call.jpg" alt="Yashwanth MG | Phone Number" width="21px"/></a>
 <a href="https://app.chime.aws/conversations/new?email=mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/6fe48ad830ba499dd0b3ee3e4ea607d05d4ee365/images/chime.jpg" alt="Yashwanth MG | Chime" width="21px"/></a> 
 <a href="mailto:mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/96fc2d4b6f6372d31fc893adb346c3f8dc21b185/images/outlook.jpg" alt="Yashwanth MG | Outlook" width="21px"/></a>
