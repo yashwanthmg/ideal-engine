@@ -12,10 +12,10 @@ I'm a !
 
 I love 
 
-### 🤝 Connect with me: 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+### 🤝 Connect with me: 
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://app.chime.aws/conversations/new?email=mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/6fe48ad830ba499dd0b3ee3e4ea607d05d4ee365/images/chime.jpg" alt="Yashwanth MG | Chime" width="21px"/></a> 
-<a href="mailto:mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/96fc2d4b6f6372d31fc893adb346c3f8dc21b185/images/outlook.jpg" alt="Yashwanth MG | Outlook" width="21px"/></a> 
+<a href="mailto:mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/96fc2d4b6f6372d31fc893adb346c3f8dc21b185/images/outlook.jpg" alt="Yashwanth MG | Outlook" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 </br>
 
 ## 🔭 I'm currently working on
