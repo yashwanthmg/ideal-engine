@@ -107,7 +107,7 @@ Fake on-boarding's was a major concern as this was a spillover to other projects
 # Account Re-activation, Cancellation & Return rate reduction
 </h4>
 
-Due to seller knowledge gap or compliance cases from FOS sellers were adding incorrect products / Quantites or not aware of SOP for order confirmation & delivery lead to high order cancellations & returns & some accounts were suspended due to amazon policies. Decreased order cancellation & return rate to 20% by creating seller awareness & regular daily followups and 3 out of 10  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
+Due to seller knowledge high learning curve & FOS compliance cases, sellers were adding incorrect products / Quantites or were not aware of SOP for order confirmation & delivery which lead to high order cancellations & returns & increase in account suspension due to amazon policies. Worked on decreasing order cancellation & return rate to 20% by creating seller awareness & setting up a mechanism for FOS regular daily followups and 3 out of 10  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
 
 
 <h4 align ="left">
