@@ -46,7 +46,9 @@ I love
 - Boss (Andon cord)
 - Image Assist- (Image problems)
 
-## 📝 Certifications
+## 📜 Certifications
+
+- 
 
 ## 📝 Projects i have worked on
 
