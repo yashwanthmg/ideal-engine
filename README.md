@@ -15,6 +15,7 @@ I love
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://app.chime.aws/conversations/new?email=mmgyashw@amazon.com"><img align="left" src="https://github.com/yashwanthmg/ideal-engine/blob/6fe48ad830ba499dd0b3ee3e4ea607d05d4ee365/images/chime.jpg" alt="Yashwanth MG | Chime" width="21px"/></a> 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
