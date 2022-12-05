@@ -46,7 +46,7 @@ I love
 - Boss (Andon cord)
 - Image Assist- (Image problems)
 
-
+## 📝 Certifications
 
 ## 📝 Projects i have worked on
 
@@ -114,7 +114,7 @@ Company: Blubirch Co-Founder: Amit Goel
 
 ## 📈 Activities & Recognitions
 
-- Award for exceeding monthly & daily quota also record for team with highest sellers onboarded in a day. 
+- Award for exceeding monthly & daily quota also team record holder for highest sellers onboarded in a day. 
 - Promoted for Sr. Team Lead for succesfully leading prione projects. 
 - amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>
 - Nominated for employee of the month for project 1 & 2. 
