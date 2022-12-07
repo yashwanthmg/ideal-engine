@@ -79,7 +79,7 @@ Company: amazon distribution Manager: Neha Pathak
 # Size chart expansion & PSR Sample activity
 </h4>
 Company: amazon distribution Manager: Arvind KR
-Worked with vendors & product team to enable size chart for all ASIN. Initially handled PSR sample activity executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs. (Both Project abandoned)
+Worked with vendors & product team to enable size chart for all ASIN. Initially handled PSR sample activity executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs. (Both Project abandoned due to program end)
 
 <h4 align ="left">
 # Team expansion, Learning path & training activity
