@@ -18,12 +18,14 @@ I love
 
 - Bulk File Rename Utility -  <a href="" target="_blank" rel="noreferrer">Read more</a>
 - ASIN label maker -  <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Read more</a>
 - 
 
 
 ## 🔭 I'm currently working on
 
 - Product content generator -  <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Competitor research & analysis tool - <a href="" target="_blank" rel="noreferrer">Read more</a>
 - Garment swap -  <a href="" target="_blank" rel="noreferrer">Read more</a> 
 - Virtual clothes try on -  <a href="" target="_blank" rel="noreferrer">Read more</a>
 
@@ -34,6 +36,7 @@ I love
 - Google Digital marketing certification
 - Hubspot sales management certification
 - Linkedin Inbound sales
+- amazon search essentials
 
 ## 🌱 I'm currently learning
 
@@ -52,8 +55,9 @@ I love
 - Retail assistant
 - Removals central (USI RTV & Liquidation)
 - Boss (Andon cord)
-- Image Assist- (Image problems)
+- Image Assist
 - FAAST Portal
+- Design inspector
 
 ## 📝 Projects i have worked on
 
