@@ -58,7 +58,8 @@ I love
 - Image Assist
 - FAAST Portal
 - Design inspector
-
+- Denali
+                                                                       
 ## 📝 Projects i have worked on
 
 <h4 align ="left">   
