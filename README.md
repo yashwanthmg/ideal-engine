@@ -8,11 +8,10 @@ Hi there, I'm Yashwanth MG 👋
 
 
 <h2 align="center">
-I'm a sales professional, catalog specialist, Instock and supply chain management pro with a exposure to marketing. I'm passionate about my work, love to plan and execute projects and always trying to solve problems through innovation ! I have spent considerable time in amazon ecosystem learning about process, tools, LPs and culture which has helped me contribute to my roles effectively. I'm good with people management and comfortable with team-leadership and highly organizational in delegating tasks. I adapt easily to new learnings and effeciently teach myself the softwares & skills i need to thrive. 
+I'm a sales professional, catalog specialist, Instock and supply chain management pro with a exposure to marketing. 
 </h2> 
 
-I love 
-
+I'm passionate about my work, love to plan and execute projects and always trying to solve problems through innovation ! I have spent considerable time in amazon ecosystem learning about process, tools, LPs and culture which has helped me contribute to my roles effectively. I'm good with people management and comfortable with team-leadership and highly organizational in delegating tasks. I adapt easily to new learnings and effeciently teach myself the softwares & skills i need to thrive. 
 
 ## 💡 My innovations 
 
