@@ -8,7 +8,7 @@ Hi there, I'm Yashwanth MG 👋
 
 
 <h2 align="center">
-I'm a sales professional, catalog specialist, Instock and supply chain management pro with a exposure to marketing. I'm passionate about my work, love to plan and execute projects and always trying to innovate to solve problems ! 
+I'm a sales professional, catalog specialist, Instock and supply chain management pro with a exposure to marketing. I'm passionate about my work, love to plan and execute projects and always trying to solve problems through innovation ! I have spent considerable time in amazon ecosystem learning about process, tools, LPs and culture which has helped me contribute to my roles effectively. I'm good with people management and comfortable with team-leadership and highly organizational in delegating tasks. I adapt easily to new learnings and effeciently teach myself the softwares & skills i need to thrive. 
 </h2> 
 
 I love 
@@ -19,7 +19,6 @@ I love
 - Bulk File Rename Utility -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/f0060026eb1327fdce71e8dcd9ca0ab8c04dee10/projects/Bulk%20file%20rename%20utlility/README.md" target="_blank" rel="noreferrer">Read more</a>
 - ASIN label maker -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/f0060026eb1327fdce71e8dcd9ca0ab8c04dee10/projects/asin%20label%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
 - Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Read more</a>
-- 
 
 
 ## 🔭 I'm currently working on
@@ -45,8 +44,8 @@ I love
 
 ## 💼 amazon expertise
 
-- Selection Central (ASIN Porting, Attributes changes, Data extraction), Bento (New POs), Procurement Portal (PO modification), Trouble ticketing (Raising sims & resolving tt), Unified Portal (Appoinment modification), Jira, ETL manager, Retail assistant, Removals central (USI RTV & Liquidation), Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali.
-- New ASIN Creation & Porting, 
+Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali.
+Process - New ASIN Creation, suppression, Porting & attribute changes, Image correction, Raise PO Modify & delete, Sponsored Ads, Order management, USI RTV & Liquidation, 
                                                                        
 ## 📝 Projects i have worked on
 
@@ -104,7 +103,7 @@ Fake on-boarding's was a major concern as this was a spillover to other projects
 # Account Re-activation, Cancellation & Return rate reduction
 </h4>
 
-Due to seller steep learning curve & FOS compliance cases, incorrect products / quantites were added which resulted in unfulfilled orders and sellers were not aware of SOP for order confirmation & delivery which lead to ODR cross 20% for some sellers resulting in account suspension. Succesfully reduced ODR to <2% by creating seller awareness & setting up a mechanism for FOS regular daily followups and 3 out of 10  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
+Due to seller steep learning curve & FOS compliance cases, incorrect products / quantites were added which resulted in unfulfilled orders and sellers were not aware of SOP for order confirmation & delivery which lead to ODR threshold cross 20% resulting in seller account suspension. Worked on succesfully reducing ODR to <2% by creating seller awareness & setting up a mechanism for FOS to followup on a daily basis and 2 out of 5  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
 
 
 <h4 align ="left">
