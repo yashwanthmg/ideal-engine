@@ -8,7 +8,7 @@ Hi there, I'm Yashwanth MG 👋
 
 
 <h2 align="center">
-I'm a !
+I'm a sales professional, catalog specialist, Instock and supply chain management pro with a exposure to marketing. I'm passionate about my work, love to plan and execute projects and always trying to innovate to solve problems ! 
 </h2> 
 
 I love 
@@ -43,22 +43,10 @@ I love
 - Six Sigma Black Belt
 - Data mining & analysis (SQL, ETL Manager etc)
 
-## 💼 amazon tools i have used
+## 💼 amazon expertise
 
-- Selection Central (ASIN Porting, Attributes changes, Data extraction)
-- Bento (New POs)
-- Procurement Portal (PO modification)
-- Trouble ticketing (Raising sims & resolving tt)
-- Unified Portal (Appoinment modification)
-- Jira
-- ETL manager
-- Retail assistant
-- Removals central (USI RTV & Liquidation)
-- Boss (Andon cord)
-- Image Assist
-- FAAST Portal
-- Design inspector
-- Denali
+- Selection Central (ASIN Porting, Attributes changes, Data extraction), Bento (New POs), Procurement Portal (PO modification), Trouble ticketing (Raising sims & resolving tt), Unified Portal (Appoinment modification), Jira, ETL manager, Retail assistant, Removals central (USI RTV & Liquidation), Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali.
+- New ASIN Creation & Porting, 
                                                                        
 ## 📝 Projects i have worked on
 
@@ -75,12 +63,6 @@ SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). Yashwanth started l
 Company: amazon distribution Manager: Neha Pathak
 
 90% of SL brands faced MOQ/FTL issues in supplying lower quantities and lead to non-fulfillment of replenishment POs. This, combined with the sales spike due to price reduction lead to 35% replen swoos% in Aug’22. Since onboarding of alternate options like enablement of ATS, SWA etc were a long pole, Yashwanth quickly onboarded brands on SPN (Service Provider Network) service which connects 3P logistics partners to the brand.  90% of the brands facing MOQ issues on SPN (8 out of 9 brands facing issues) was onboarded in a span of 40 days, thus reducing Replen SWOOS% by 1100 bps (from 35% in Aug’22 to 24% in Sep’22).
-
-<h4 align ="left">
-# Size chart expansion & PSR Sample activity
-</h4>
-Company: amazon distribution Manager: Arvind KR
-Worked with vendors & product team to enable size chart for all ASIN. Initially handled PSR sample activity executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs. (Both Project abandoned due to program end)
 
 <h4 align ="left">
 # Team expansion, Learning path & training activity
@@ -129,13 +111,21 @@ Due to seller steep learning curve & FOS compliance cases, incorrect products / 
 # Digital Marketing & Brand Awareness campaign
 </h4>
 Company: Blubirch Co-Founder: Amit Goel
+                 
+<h4 align ="left">
+# Size chart expansion & PSR Sample activity
+</h4>
+Company: amazon distribution Manager: Arvind KR
+Worked with vendors & product team to enable size chart for all ASIN. Initially handled PSR sample activity executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs. (Both Project abandoned due to program end)
 
 ## 📈 Activities & Recognitions
 
-- Award for exceeding monthly & daily quota also team record holder for highest sellers onboarded in a day. 
+
 - Promoted to Sr. Team Lead for succesfully leading & executing Prione projects. 
-- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>
+- Won TL of the month for exceeding monthly & daily goals. 
 - Nominated for employee of the month for project 1 & 2. 
+- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>
+
 
 ### 🤝 Connect with me: 
 
