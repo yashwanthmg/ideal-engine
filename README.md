@@ -43,8 +43,8 @@ I'm passionate about my work, love to plan and execute projects and always tryin
 
 ## 💼 amazon expertise
 
-Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali.
-Process - New ASIN Creation, suppression, Porting & attribute changes, Image correction, Raise PO Modify & delete, Sponsored Ads, Order management, USI RTV & Liquidation, 
+- Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali.
+- Process - New ASIN Creation, suppression, Porting & attribute changes, Image correction, Raise PO Modify & delete, Sponsored Ads, Order management, USI RTV & Liquidation, 
                                                                        
 ## 📝 Projects i have worked on
 
