@@ -8,10 +8,10 @@ Hi there, I'm Yashwanth MG 👋
 
 
 <h2 align="center">
-I'm a sales professional, catalog specialist, Instock and supply chain management pro with a exposure to marketing. 
+I'm a sales professional, catalog specialist, Instock and supply chain management pro with a brief exposure to marketing. 
 </h2> 
 
-I'm passionate about my work, love to plan and execute projects and always trying to solve problems through innovation ! I have spent considerable time in amazon ecosystem learning about process, tools, LPs and culture which has helped me contribute to my roles effectively. I'm good with people management and comfortable with team-leadership and highly organizational in delegating tasks. I adapt easily to new learnings and effeciently teach myself the softwares & skills i need to thrive. 
+I'm passionate about my work, love to plan and execute projects and always trying to solve problems through innovation ! I have spent considerable time in amazon ecosystem learning about process, tools, LPs and culture which has helped me contribute to my roles effectively. I'm good with people management and comfortable with team-leadership and highly organizational in delegating tasks. I adapt easily to new learnings and effeciently teach myself the softwares & skills i need to thrive in any environment. 
 
 ## 💡 My innovations 
 
@@ -43,8 +43,8 @@ I'm passionate about my work, love to plan and execute projects and always tryin
 
 ## 💼 amazon expertise
 
-- Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali.
-- Process - New ASIN Creation, suppression, Porting & attribute changes, Image correction, Raise PO Modify & delete, Sponsored Ads, Order management, USI RTV & Liquidation, 
+- Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali, Salesforce Pardot.
+- Process - New ASIN Creation, Suppression, Porting & attribute changes, Image correction, PO & order management, Sponsored Ads, USI RTV & Liquidation, Brand registry, Compliance audits, Account reinstatement & activation, Seller / Vendor onboarding, Gated/Restricted category approvals, Payment & dispute resolution etc
                                                                        
 ## 📝 Projects i have worked on
 
@@ -65,25 +65,25 @@ I'm passionate about my work, love to plan and execute projects and always tryin
 # Team expansion, Learning path & training activity
 </h4> Company: Prione Manager: Pratheik Singh
 
-- During covid the team count was at 4 and with spike in online sales we had to quickly scale up FOS team to onboard more sellers for Bangalore Urban & Rural. I had the opportunity to lead the high-volume full recruitment cycle, from sourcing strategies, talent recruitment and acquisition to interview and onboarding. Reviewed 500+ resumes, interviewed 200+ candidates with quality of hire score 93/100, controlled attrition rate to 5% & reduced average time in hiring to 2 days with consistent communication and follow-ups with staffing partners. Created effective training strategies for seller onboarding including complex technical topics like bulk cataloging, account reinstatement etc. along with instruction documents, videos and mock training sessions and by implementing Kirkpatrick model for the newly hired FOS improved post-training performance, operational effeciency & reduced time to productivity to <5 days.
+- During the COVID-19 pandemic, our team size was reduced to four members. However, the spike in online sales required us to quickly scale up our FOS team to onboard more sellers in the Bangalore Urban and Rural areas. I had the opportunity to lead the high-volume recruitment process, from developing sourcing strategies and recruiting talent, to conducting interviews and onboarding new hires. I reviewed over 500 resumes, interviewed over 200 candidates, and achieved a quality of hire score of 93/100. I also successfully controlled the attrition rate to 5% and reduced the average time in hiring to 2 days, thanks to consistent communication and follow-ups with staffing partners. I also designed and implemented effective training strategies for seller onboarding, including instruction documents, videos, and mock training sessions for complex topics like bulk cataloging and account reinstatement. By applying the Kirkpatrick model to the newly hired FOS, I was able to improve post-training performance, operational efficiency, and reduce the time to productivity to less than 5 days.
 
 <h4 align ="left">
 # Selection expansion, Sponsored Ads 
 </h4> Company: Prione Manager: Vigneshwaran J
 
-- With successful increase in wow new seller acquisition we noticed that their was no major increase in wow sales numbers and after conducting a deep dive we understood that sellers had very few SKU active and others made their account inactive due to lack of sales. Feedback was mainly that they didn’t have  time or expertise to add more products. So we created a goal of adding more SKU to the existing sellers and a minimum SKU criteria for the newly onboarded sellers. To tackle the problem of time we made use of category specific template for bulk upload available on seller central and other 3rd party tools to decrease 80% of the cataloging time. The sales numbers increased but we found out that sellers had more success in unique sku and since it takes time for new Unique ASIN to show up on search result, we enabled them on sponsored ads on promotional credits which resulted in guaranteed sales and 30-40% of the sellers continuing with paid ads and others saw their sales improve after the enablement. And for top brands onboarded based on their sales history we enabled them on A+ content manager.
+- After successfully increasing the number of new sellers on our platform, we noticed that there was no corresponding increase in sales numbers. Upon conducting a detailed analysis, we discovered that many sellers had only a few active SKUs and that others had made their accounts inactive due to lack of sales. Feedback from sellers indicated that they did not have the time or expertise to add more products. Therefore, we set a goal of adding more SKUs to existing sellers and established a minimum SKU criteria for newly onboarded sellers. To address the issue of time constraints, we made use of category-specific templates for bulk uploads available on seller central and other third-party tools, which reduced cataloging time by 80%. This led to an increase in sales numbers, but we also found that sellers had more success with unique SKUs. Since it takes time for new unique ASINs to show up in search results, we enabled sponsored ads on promotional credits for these sellers, which guaranteed sales and resulted in 30-40% of sellers continuing with paid ads. Others saw their sales improve after the enablement. For top brands that we onboarded based on their sales history, we enabled them on A+ content manager.
 
 <h4 align ="left">
 # Photoshoot & PR campaign
 </h4> Company: Prione Manager: Deepthi Anand
 
-- India's largest retail chains like Vishal mega mart, Uniso, Spar were onboarded to amazon but due to large number of Unique SKUs and amazon strict image guidelines some of the ASIN couldn’t be made live on amazon. We consistently coordinated with category approval team to get approval in restricted categories and for ASINs image with incorrect background we chose AI assisted free background replace tool like remove.bg which helped us reduce overhead costs and for remaining ASINs we hired a photographer on much lesser charges than spn. We setup a seller wise tracker mechanism to monitor the image quality and upload status and we saw an increase in image quality compared to existing vendors and increase in page visits and a spike in order count. We later implemented this to our other local sellers who had very poor catalogs but good selection especially in Apparel & Furniture category. We also did a multiple PR activity based on inputs from senior leadership team and we thoroughly vetted and selected the most suitable sellers with consistent sales record, coordinated with them for the photoshoot, PR statement and other formalities.
+- India's largest retail chains, such as Vishal Mega Mart, Uniso, and Spar, were onboarded to Amazon. However, due to the large number of unique SKUs and Amazon's strict image guidelines, some ASINs were unable to be made live on the platform. We consistently coordinated with the category approval team to get approval in restricted categories and for ASINs with incorrect backgrounds, we used AI-assisted free background replace tools like remove.bg and also hired a photographer & conducted photoshoot, which helped us reduce overhead costs. We also set up a seller-wise tracker mechanism to monitor the image quality and upload status. The result an increase in image quality compared to existing vendors and an increase in page visits and orders. We later implemented this approach for other local sellers who had poor catalogs but a good selection, particularly in the Apparel and Furniture categories. We also conducted multiple PR activities based on inputs from the senior leadership team and carefully vetted and selected the most suitable sellers with consistent sales records. We coordinated with them for the photoshoot, PR statement, and other formalities.
 
 <h4 align ="left">
 # Implementation of field force automation
 </h4> Company: Prione Manager: Deepthi Anand
 
-- The existing mechanism for capturing FOS visits was very inefficient and not productive and we were not able to capture relevant information about sellers. Worked with CRM team in implementing FFA which helped us capture crucial sales metrics with deeper insight into patterns of sales, improved customer segmentation, goal progress and also effectively monitoring FOS performance & geo-tagging outlets in real time. Using the wide variety of data we were able to make many process improvements and we were able to create more effective goals and there was 100% increase in FOS contribution post crm implementation.
+- The previous mechanism for capturing FOS visits was inefficient and not productive, and we were unable to capture relevant information about sellers. I worked with the CRM team to implement FFA, which helped us capture crucial sales metrics with deeper insight into sales patterns, improved customer segmentation, goal progress, and effective monitoring of FOS performance and geo-tagging outlets in real time. Using the wide variety of data, we were able to make numerous process improvements and create more effective goals. As a result, there was a 100% increase in FOS contribution after the CRM implementation.
 
 <h4 align ="left">
 # Auditing mechanism to track fake onboardings
@@ -96,7 +96,7 @@ I'm passionate about my work, love to plan and execute projects and always tryin
 # Account Re-activation, Cancellation & Return rate reduction
 </h4>
 
-- Due to seller steep learning curve & FOS compliance cases, incorrect products / quantites were added which resulted in unfulfilled orders and sellers were not aware of SOP for order confirmation & delivery which lead to ODR threshold cross 20% resulting in seller account suspension. Worked on succesfully reducing ODR to <2% by creating seller awareness & setting up a mechanism for FOS to followup on a daily basis and 2 out of 5  deactivated accounts were reinstated by writing an effective action plan & prompt communication with the compliance team.
+- Due to the steep learning curve for sellers and FOS compliance cases, incorrect products and quantities were added, resulting in unfulfilled orders. Sellers were not aware of the SOP for order confirmation and delivery, which led to ODR threshold exceeding 20%, resulting in seller account suspension. By working closely with the team, we were able to successfully reduce ODR to less than 2% through seller awareness and a mechanism for FOS to follow up on a daily basis. We also collaborated with the compliance team on account reinstatement, and two out of five deactivated accounts were reinstated by writing an effective action plan and prompt communication with the compliance team.
 
 
 <h4 align ="left">
@@ -109,16 +109,14 @@ Company: Blubirch Co-Founder: Amit Goel
 </h4>
 Company: amazon distribution Manager: Arvind KR
 
-- Worked with vendors & product team to enable size chart for all ASIN. Initially handled PSR sample activity executing the lifting, inventory management and tracking of rotation of samples in coordination with VM, SM and TLs. (Both Project abandoned due to program end)
+- I worked with vendors and the product team to enable size charts for all ASINs and created my own tools to overcome challenges faced during this project. Also I handled the PSR sample activity, executing the lifting, inventory management, and tracking of the rotation of samples in coordination with the VM, SM, and TLs. (Both Project abandoned)
 
 ## 📈 Activities & Recognitions
 
-
-- Promoted to Sr. Team Lead for succesfully leading & executing Prione projects. 
-- Won TL of the month for exceeding monthly & daily goals. 
-- Nominated for employee of the month for project 1 & 2. 
-- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>
-
+- Won TL of the month for exceeding monthly & daily goals. (Prione)
+- Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
+- Nominated for employee of the month for project 1 & 2. (AD)
+- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>                                                                                                                                  
 
 ### 🤝 Connect with me: 
 
@@ -128,4 +126,3 @@ Company: amazon distribution Manager: Arvind KR
 <a href="https://www.linkedin.com/in/yashwanth-mg"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 </br>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
