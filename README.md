@@ -11,7 +11,7 @@ Hi there, I'm Yashwanth MG 👋
 I'm a sales professional, catalog specialist, Inventory and supply chain management pro with a brief exposure to marketing. 
 </h3> 
 
-I am passionate about my work and enjoy planning and executing projects. I am always looking for ways to solve problems through innovation. I have spent a significant amount of time in the Amazon ecosystem learning about processes, tools, LPs, and culture, which has helped me contribute effectively to my roles. I am skilled at people management and comfortable with team leadership. I am highly organized and able to delegate tasks effectively. I am also able to adapt easily to new learnings and efficiently teach myself the software and skills that I need to thrive in any environment.
+I am passionate about my work and enjoy planning and executing projects. I am always looking for ways to solve problems through innovation. I have spent a significant amount of time in the Amazon ecosystem learning about process, tools, LPs, and culture which has helped me contribute effectively to my roles. I am skilled at people management and comfortable with team leadership. I am highly organized and able to delegate tasks effectively. I am also able to adapt easily to new learnings and efficiently teach myself the software and skills that I need to thrive in any environment.
 
 ## 💡 My innovations 
 
@@ -29,7 +29,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 ## 🏆 Activities & Recognitions🥇
 
-- Won many TL of the month awards for exceeding weekly & monthly goals. (Prione) 
+- Won many 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) 
 - Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
 - Nominated for employee of the month for project 1 & 2. (AD)
 - amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
