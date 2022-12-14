@@ -1,4 +1,7 @@
 ## CREDITS: Repo cloned from andrewjong
+# Work in progress
+
+While working with apparel sellers/vendors, I encountered a problem with selection expansion: the lack of professional catalog images. When learning about machine learning, I came across a project working on garment transfer on existing model images without having to conduct photoshoots. This piqued my interest, and I decided to take on the project of creating a basic working model to help our sellers/vendors.
 
 # SwapNet
 **Community PyTorch reproduction of SwapNet.**
