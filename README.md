@@ -29,9 +29,9 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 ## 🏆 Activities & Recognitions🥇
 
-- Won many 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) 
+- 'TL of the month' rewards for exceeding weekly & monthly goals. (Prione) 
 - Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
-- Nominated for employee of the month for project 1 & 2. (AD)
+- Nominated for 'Employee of the month' for project 1 & 2. (AD)
 - amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
                                                                                                                                   
 ## 📜 Certifications
@@ -52,7 +52,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 ## 💼 amazon expertise
 
 - Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali, Salesforce Pardot etc
-- Process - New ASIN Creation, Suppression, Porting & attribute changes, Image correction, PO & order management, Sponsored Ads, USI RTV & Liquidation, Brand registry, Compliance audits, Account reinstatement & activation, Seller / Vendor onboarding, Gated/Restricted category approvals, Payment & dispute resolution etc
+- Process - Seller / Vendor onboarding, New ASIN Creation, Suppression, Porting & attribute changes, Image correction, PO & order management, Sponsored Ads, USI RTV & Liquidation, Brand registry, Compliance audits, Account reinstatement & activation, Gated/Restricted category approvals, Payment & dispute resolution etc
                                                                        
 ## 📝 Projects i have worked on
 
@@ -97,7 +97,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 # Auditing mechanism to track fake onboardings
 </h4> Company: Prione Manager: Prateik Singh
 
-- Fake onboarding was a major concern as it had spillover effects on other projects, such as order cancellation, account deactivation, and loss of time and resources. Based on deep dive data, I worked on an SOP and created an auditing tracker to determine the authenticity of the seller in real time, even before they were onboarded. This idea was later improved and implemented by the leadership team to other sales teams across India.
+- Fake onboarding was a major concern as it had spillover effects on other projects such as order cancellation, account deactivation, and loss of time and resources. Based on deep dive data, I worked on an SOP and created an auditing tracker to determine the authenticity of the seller in real time, even before they were onboarded. This idea was later improved and implemented by the leadership team to other sales teams across India.
 
 
 <h4 align ="left">
