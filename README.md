@@ -8,7 +8,7 @@ Hi there, I'm Yashwanth MG 👋
 
 
 <h2 align="center">
-I'm a sales professional, catalog specialist, Instock and supply chain management pro with a brief exposure to marketing. 
+I'm a sales professional, catalog specialist, Inventory and supply chain management pro with a brief exposure to marketing. 
 </h2> 
 
 I am passionate about my work and enjoy planning and executing projects. I am always looking for ways to solve problems through innovation. I have spent a significant amount of time in the Amazon ecosystem learning about processes, tools, LPs, and culture, which has helped me contribute effectively to my roles. I am skilled at people management and comfortable with team leadership. I am highly organized and able to delegate tasks effectively. I am also able to adapt easily to new learnings and efficiently teach myself the software and skills that I need to thrive in any environment.
@@ -27,6 +27,13 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 - Garment swap -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/garment%20swap/SwapNet-master/README.md" target="_blank" rel="noreferrer">Read more</a> 
 
 
+## 📈 Activities & Recognitions
+
+- Won TL of the month for exceeding weekly & monthly goals. (Prione)
+- Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
+- Nominated for employee of the month for project 1 & 2. (AD)
+- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
+                                                                                                                                  
 ## 📜 Certifications
 
 - Six Sigma Green Belt - Aviate institute
@@ -106,19 +113,15 @@ Company: Prione Manager: Deepthi Anand, Prateik Singh
 </h4>
 Company: Blubirch Co-Founder: Amit Goel
                  
+- 
+                 
 <h4 align ="left">
 # Size chart expansion & PSR Sample activity
 </h4>
 Company: amazon distribution Manager: Arvind KR
 
 - I worked with vendors and the product team to enable size charts for all ASINs and created my own tools to overcome challenges faced during this project. Also I handled the PSR sample activity, executing the lifting, inventory management, and tracking of the rotation of samples in coordination with the VM, SM, and TLs. (Both Project abandoned)
-
-## 📈 Activities & Recognitions
-
-- Won TL of the month for exceeding weekly & monthly goals. (Prione)
-- Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
-- Nominated for employee of the month for project 1 & 2. (AD)
-- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>                                                                                                                                  
+                                                                                                                            
 
 ### 🤝 Connect with me: 
 
