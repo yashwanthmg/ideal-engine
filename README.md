@@ -2,14 +2,14 @@
   <a href="https://phonetool.amazon.com/users/mmgyashw"_blank" rel="noreferrer"><img src="https://github.com/yashwanthmg/ideal-engine/blob/afe9be321c03fdca5b04dd397e8d44c2e164dce6/images/amazon-banner.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm Yashwanth MG 👋
-</h3>
-
-
 <h2 align="center">
+Hi there, I'm Yashwanth MG 👋
+</h2>
+
+
+<h3 align="center">
 I'm a sales professional, catalog specialist, Inventory and supply chain management pro with a brief exposure to marketing. 
-</h2> 
+</h3> 
 
 I am passionate about my work and enjoy planning and executing projects. I am always looking for ways to solve problems through innovation. I have spent a significant amount of time in the Amazon ecosystem learning about processes, tools, LPs, and culture, which has helped me contribute effectively to my roles. I am skilled at people management and comfortable with team leadership. I am highly organized and able to delegate tasks effectively. I am also able to adapt easily to new learnings and efficiently teach myself the software and skills that I need to thrive in any environment.
 
@@ -27,9 +27,9 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 - Garment swap -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/garment%20swap/SwapNet-master/README.md" target="_blank" rel="noreferrer">Read more</a> 
 
 
-## 📈 Activities & Recognitions
+## 🏆 Activities & Recognitions🥇
 
-- Won TL of the month for exceeding weekly & monthly goals. (Prione)
+- Won many TL of the month awards for exceeding weekly & monthly goals. (Prione) 
 - Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
 - Nominated for employee of the month for project 1 & 2. (AD)
 - amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
@@ -113,7 +113,8 @@ Company: Prione Manager: Deepthi Anand, Prateik Singh
 </h4>
 Company: Blubirch Co-Founder: Amit Goel
                  
-- 
+- Company was generating leads through inside sales but the conversion rate was very poor due to lack of brand awareness. Our brand awareness project aimed to increase recognition and positive associations with our company among our target audience. We implemented a multi-faceted approach that included a new brand identity and messaging, targeted advertising on relevant platforms, and engaging with our audience through social media and business messaging platforms. 
+Through this project, we were able to significantly increase brand awareness among our target audience, as measured by surveys. We also saw a corresponding increase in website traffic, social media engagement, and positive sentiment. The .
                  
 <h4 align ="left">
 # Size chart expansion & PSR Sample activity
