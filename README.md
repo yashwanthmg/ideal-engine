@@ -52,14 +52,14 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 # USI Portfolio & Vendor Inbound Guidelines
 </h4> Company: amazon distribution Manager: Neha Pathak
 
-- SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). Yashwanth started leading the USI (Unsellable Inventory management) portfolio. He set up weekly mechanism with FC to identify ASIN level causes of unsellable inventory. He identified 2 major reasons of USI- a) MRP tags missing in the products either via C-return route or during supply from vendors b) minor refurbishment pending with FC for the c-return products. He worked with all 13 vendors to supply separate MRP tags to FC for monthly correction of inventory. His findings also lead to modification of our Inbound and packaging vendor training deck to avoid “MRP tag misses” during vendor’s packaging process. Due to his efforts, USI% decreased to 0.08% in WK 39 (sep’22 exit).
+- SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). I started leading the USI (Unsellable Inventory management) portfolio by setting up weekly mechanism with FC to identify ASIN level causes of unsellable inventory. I identified 2 major reasons of USI- a) MRP tags missing in the products either via C-return route or during supply from vendors b) minor refurbishment pending with FC for the c-return products and worked with all 13 vendors to supply separate MRP tags to FC for monthly correction of inventory. My findings also lead to modification of our Inbound and packaging vendor training deck to avoid “MRP tag misses” during vendor’s packaging process. Due to this efforts, USI% decreased to 0.08% in WK 39 (sep’22 exit).
 
   
 <h4 align ="left">
 # SWOOS% reduction
 </h4> Company: amazon distribution Manager: Neha Pathak
 
-- 90% of SL brands faced MOQ/FTL issues in supplying lower quantities and lead to non-fulfillment of replenishment POs. This, combined with the sales spike due to price reduction lead to 35% replen swoos% in Aug’22. Since onboarding of alternate options like enablement of ATS, SWA etc were a long pole, Yashwanth quickly onboarded brands on SPN (Service Provider Network) service which connects 3P logistics partners to the brand.  90% of the brands facing MOQ issues on SPN (8 out of 9 brands facing issues) was onboarded in a span of 40 days, thus reducing Replen SWOOS% by 1100 bps (from 35% in Aug’22 to 24% in Sep’22).
+- 90% of SL brands faced MOQ/FTL issues in supplying lower quantities and lead to non-fulfillment of replenishment POs. This, combined with the sales spike due to price reduction lead to 35% replen swoos% in Aug’22. Since onboarding of alternate options like enablement of ATS, SWA etc were a long pole, I quickly onboarded brands on SPN (Service Provider Network) service which connects 3P logistics partners to the brand.  90% of the brands facing MOQ issues on SPN (8 out of 9 brands facing issues) was onboarded in a span of 40 days, thus reducing Replen SWOOS% by 1100 bps (from 35% in Aug’22 to 24% in Sep’22).
 
 <h4 align ="left">
 # Team expansion, Learning path & training activity
@@ -77,7 +77,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 # Photoshoot & PR campaign
 </h4> Company: Prione Manager: Deepthi Anand
 
-- India's largest retail chains, such as Vishal Mega Mart, Uniso, and Spar, were onboarded to Amazon. However, due to the large number of unique SKUs and Amazon's strict image guidelines, some ASINs were unable to be made live on the platform. We consistently coordinated with the category approval team to get approval in restricted categories and for ASINs with incorrect backgrounds, we used AI-assisted free background replace tools like remove.bg and also hired a photographer & conducted photoshoot, which helped us reduce overhead costs. We also set up a seller-wise tracker mechanism to monitor the image quality and upload status. The result an increase in image quality compared to existing vendors and an increase in page visits and orders. We later implemented this approach for other local sellers who had poor catalogs but a good selection, particularly in the Apparel and Furniture categories. We also conducted multiple PR activities based on inputs from the senior leadership team and carefully vetted and selected the most suitable sellers with consistent sales records. We coordinated with them for the photoshoot, PR statement, and other formalities.
+- India's largest retail chains, such as Vishal Mega Mart, Uniso, and Spar, were onboarded to Amazon. However, due to the large number of unique SKUs and Amazon's strict image guidelines, some ASINs were unable to be made live on the platform. We consistently coordinated with the category approval team to get approval in restricted categories and for ASINs with incorrect backgrounds, we used AI-assisted free background replace tools like remove.bg and also hired a photographer & conducted photoshoot, which helped us reduce overhead costs. We also set up a seller-wise tracker mechanism to monitor the image quality and upload status. The result an increase in image quality compared to existing vendors and an increase in page visits and orders. We later implemented this approach for other local sellers who had poor catalogs but a good selection, particularly in the Apparel and Furniture categories. We also conducted multiple PR activities based on inputs from the senior leadership team and carefully vetted and selected the most suitable sellers with consistent sales record coordinating with them for the photoshoot, PR statement, and other formalities.
 
 <h4 align ="left">
 # Implementation of field force automation
@@ -89,7 +89,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 # Auditing mechanism to track fake onboardings
 </h4> Company: Prione Manager: Pratheik Singh
 
-- Fake on-boarding's was a major concern as this was a spillover to other projects like order cancellation, account deactivation and loss of time & resources. Based on deep dive data i worked on an SOP and created a auditing tracker to determine the authenticity of the seller in real time even before he was onboarded. This idea was later improvised and implemented by leadership team with other sales team across India.
+- Fake onboarding was a major concern as it had spillover effects on other projects, such as order cancellation, account deactivation, and loss of time and resources. Based on deep dive data, I worked on an SOP and created an auditing tracker to determine the authenticity of the seller in real time, even before they were onboarded. This idea was later improved and implemented by the leadership team to other sales teams across India.
 
 
 <h4 align ="left">
