@@ -97,6 +97,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 # Account Re-activation, Cancellation & Return rate reduction
 </h4>
 Company: Prione Manager: Deepthi Anand, Prateik Singh
+                 
 - Due to the steep learning curve for sellers and FOS compliance cases, incorrect products and quantities were added, resulting in unfulfilled orders. Sellers were not aware of the SOP for order confirmation and delivery, which led to ODR threshold exceeding 20%, resulting in seller account suspension. By working closely with the team, we were able to successfully reduce ODR to less than 2% through seller awareness and a mechanism for FOS to follow up on a daily basis. We also collaborated with the compliance team on account reinstatement, and two out of five deactivated accounts were reinstated by writing an effective action plan and prompt communication with the compliance team.
 
 
