@@ -22,24 +22,25 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 ## 🔭 I'm currently working on
 
-- Product content generator -  <a href="" target="_blank" rel="noreferrer">Read more</a>
-- Competitor research & analysis tool - <a href="" target="_blank" rel="noreferrer">Read more</a>
-- Garment swap -  <a href="" target="_blank" rel="noreferrer">Read more</a> 
-- Virtual clothes try on -  <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Product content generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/Product%20content%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
+- Competitor research & analysis tool - <a href="" target="_blank" rel="noreferrer">Confidential</a>
+- Garment swap -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/garment%20swap/SwapNet-master/README.md" target="_blank" rel="noreferrer">Read more</a> 
 
 
 ## 📜 Certifications
 
-- Six Sigma White Belt - Aviate institute
+- Six Sigma Green Belt - Aviate institute
 - Google Digital marketing certification
 - Hubspot sales management certification
-- Linkedin Inbound sales
-- amazon search essentials
+- Linkedin Inside & B2B sales, Account management certification
+- K-net amazon search essentials
 
 ## 🌱 I'm currently learning
 
 - Six Sigma Black Belt
 - Data mining & analysis (SQL, ETL Manager etc)
+- PR & FAQ writing
+- Decision making & negotiation 
 
 ## 💼 amazon expertise
 
@@ -87,7 +88,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 <h4 align ="left">
 # Auditing mechanism to track fake onboardings
-</h4> Company: Prione Manager: Pratheik Singh
+</h4> Company: Prione Manager: Prateik Singh
 
 - Fake onboarding was a major concern as it had spillover effects on other projects, such as order cancellation, account deactivation, and loss of time and resources. Based on deep dive data, I worked on an SOP and created an auditing tracker to determine the authenticity of the seller in real time, even before they were onboarded. This idea was later improved and implemented by the leadership team to other sales teams across India.
 
@@ -95,7 +96,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 <h4 align ="left">
 # Account Re-activation, Cancellation & Return rate reduction
 </h4>
-
+Company: Prione Manager: Deepthi Anand, Prateik Singh
 - Due to the steep learning curve for sellers and FOS compliance cases, incorrect products and quantities were added, resulting in unfulfilled orders. Sellers were not aware of the SOP for order confirmation and delivery, which led to ODR threshold exceeding 20%, resulting in seller account suspension. By working closely with the team, we were able to successfully reduce ODR to less than 2% through seller awareness and a mechanism for FOS to follow up on a daily basis. We also collaborated with the compliance team on account reinstatement, and two out of five deactivated accounts were reinstated by writing an effective action plan and prompt communication with the compliance team.
 
 
