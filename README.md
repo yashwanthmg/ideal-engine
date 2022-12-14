@@ -115,7 +115,7 @@ Company: amazon distribution Manager: Arvind KR
 
 ## 📈 Activities & Recognitions
 
-- Won TL of the month for exceeding monthly & daily goals. (Prione)
+- Won TL of the month for exceeding weekly & monthly goals. (Prione)
 - Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
 - Nominated for employee of the month for project 1 & 2. (AD)
 - amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>                                                                                                                                  
