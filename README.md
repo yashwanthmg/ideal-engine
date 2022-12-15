@@ -29,9 +29,9 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 ## 🏆 Activities & Recognitions🥇
 
-- 'TL of the month' rewards for exceeding weekly & monthly goals. (Prione) 
-- Promoted to Sr. Team Lead for succesfully leading & executing projects. (Prione)
-- Nominated for 'Employee of the month' for project 1 & 2. (AD)
+- 'TL of the month' reward for exceeding weekly & monthly goals. (Prione) 
+- Promoted to Sr. Team Lead for succesfully leading & executing Prione projects. 
+- Nominated for 'Employee of the month' for leading & executing AD projects. 
 - amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
                                                                                                                                   
 ## 📜 Certifications
