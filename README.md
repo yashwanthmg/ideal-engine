@@ -114,7 +114,7 @@ Company: Prione Manager: Deepthi Anand, Prateik Singh
 Company: Blubirch Co-Founder: Amit Goel
                  
 - Company was generating leads through inside sales but the conversion rate was very poor due to lack of brand awareness. Our brand awareness project aimed to increase recognition and positive associations with our company among our target audience. We implemented a multi-faceted approach that included a new brand identity and messaging, targeted advertising on relevant platforms, and engaging with our audience through social media and business messaging platforms. 
-Through this project, we were able to significantly increase brand awareness among our target audience, as measured by surveys. We also saw a corresponding increase in website traffic, social media engagement, and positive sentiment. The .
+Through this project, we were able to significantly increase brand awareness among our target audience, as measured by surveys. We also saw a corresponding increase in website traffic, social media engagement, and positive sentiment. The best part about this project is that we didnt spend a dime on marketing and the traffic and leads we generated was completly 100% organic.
                  
 <h4 align ="left">
 # Size chart expansion & PSR Sample activity
