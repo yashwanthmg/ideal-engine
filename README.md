@@ -9,11 +9,12 @@ Hi there, I'm Yashwanth MG 👋
 
 <h3 align="center">
 I'm a sales professional, catalog specialist, Inventory and supply chain management pro with a brief exposure to marketing. 
-</h3> <a href="https://github.com/yashwanthmg/ideal-engine/blob/a799c1d4585e1052fa5b8151ca5ff138e1e8e095/resume/README.md" target="_blank" rel="noreferrer">View Resume</a>
+</h3>
 
 I am passionate about my work and enjoy planning and executing projects. I am always looking for ways to solve problems through innovation. I have spent a significant amount of time in the Amazon ecosystem learning about process, tools, LPs, and culture which has helped me contribute effectively to my roles. I am skilled at people management and comfortable with team leadership. I am highly organized and able to delegate tasks effectively. I am also able to adapt easily to new learnings and efficiently teach myself the software and skills that I need to thrive in any environment.
 
-
+ <a href="https://github.com/yashwanthmg/ideal-engine/blob/a799c1d4585e1052fa5b8151ca5ff138e1e8e095/resume/README.md" target="_blank" rel="noreferrer">View Resume</a>
+                                                                                                                                                      
 ## 💡 My innovations 
 
 - Bulk File Rename Utility -  <a href="https://github.com/yashwanthmg/ideal-engine/tree/f0060026eb1327fdce71e8dcd9ca0ab8c04dee10/projects/Bulk%20file%20rename%20utlility" target="_blank" rel="noreferrer">Read more</a>
