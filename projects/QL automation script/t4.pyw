@@ -5,10 +5,11 @@ import tkinter as tk
 import pyperclip
 import pytz
 from pytz import timezone
+from tkinter import *
+
 
 asin = None
 quantityrequired = None
-startdate = None
 enddate = None
 sellerid = None
 sellername = None
@@ -24,7 +25,9 @@ file_name1= None
 file_name2= None
 file_name3= None
 
+
 root = tk.Tk()
+root.title('QL Make v2')
 root.geometry("700x600")
 
 def update_label():
@@ -90,9 +93,11 @@ def get_input():
 	worksheet.conditional_format( 'A1:E1' , { 'type' : 'no_blanks' , 'format' : border_format} )
 	date_format = workbook.add_format({'num_format':'mm/dd/yyyy'})
 	
-	DATE_INP1 = datetime.datetime.now().date() + datetime.timedelta(days=-1)
+	date1 = datetime.datetime.strptime(startdate1, "%m/%d/%Y")
+	DATE_INP1 = date1 + datetime.timedelta(days=-1)
 	date_fmt1 = DATE_INP1.strftime("%m/%d/%Y")
-	DATE_INP2 = datetime.datetime.now().date() + datetime.timedelta(days=1)
+	date2 = datetime.datetime.strptime(startdate1, "%m/%d/%Y")
+	DATE_INP2 = date2 + datetime.timedelta(days=1)
 	date_fmt2 = DATE_INP2.strftime("%m/%d/%Y")
 	
 	# Use the worksheet object to write
@@ -130,7 +135,7 @@ def get_input():
 	worksheet.conditional_format( 'A1:E1' , { 'type' : 'no_blanks' , 'format' : border_format} )
 	date_format = workbook.add_format({'num_format':'mm/dd/yyyy'})
 	
-	DATE_INP3 = datetime.datetime.now().date()
+	DATE_INP3 = datetime.datetime.strptime(startdate1, "%m/%d/%Y")
 	date_fmt3 = DATE_INP3.strftime("%m/%d/%Y")
 	DATE_INP4 = '12/31/2023'
 	
