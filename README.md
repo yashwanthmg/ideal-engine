@@ -15,7 +15,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
                                                                                                                                                       
 ## 💡 My innovations 
 
-- QL file automation - <a href="" target="_blank" rel="noreferrer">Read more</a>
+- QL file automation - <a href="https://github.com/yashwanthmg/ideal-engine/tree/main/projects/QL%20automation%20script" target="_blank" rel="noreferrer">Read more</a>
 - Bulk File Rename Utility -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/dc84409f6127e06569eab56bac363b01d358d551/projects/Bulk%20file%20rename%20utlility/README.md" target="_blank" rel="noreferrer">Read more</a>
 - ASIN label generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/8162afb7e8ec8524c5b42d8d2ad32b610614abc3/projects/asin%20label%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
 - Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Confidential</a>
