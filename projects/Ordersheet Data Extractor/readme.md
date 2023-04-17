@@ -1,1 +1,1 @@
-Extract .exe file to run the program.
+Extract zip file to run the program.
