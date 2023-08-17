@@ -16,13 +16,13 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 ## 💡 My innovations 
 
 - QL file automation - <a href="https://github.com/yashwanthmg/ideal-engine/tree/main/projects/QL%20automation%20script" target="_blank" rel="noreferrer">Read more</a>
-- Data Mining & Analysis tool - - Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Revenue Forecasting Tool- <a href="" target="_blank" rel="noreferrer">Read more</a>
 - Bulk File Rename Utility -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/dc84409f6127e06569eab56bac363b01d358d551/projects/Bulk%20file%20rename%20utlility/README.md" target="_blank" rel="noreferrer">Read more</a>
 - ASIN label generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/8162afb7e8ec8524c5b42d8d2ad32b610614abc3/projects/asin%20label%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
 - Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Confidential</a>
-- Data - - Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Read more</a>
+- OS Analytics Platform - <a href="" target="_blank" rel="noreferrer">Read more</a>
 - Product content generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/Product%20content%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
-- Competitor research & analysis tool - <a href="" target="_blank" rel="noreferrer">Confidential</a>
+- Competitor benchmarking tool - <a href="" target="_blank" rel="noreferrer">Confidential</a>
 - Garment swap -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/garment%20swap/SwapNet-master/README.md" target="_blank" rel="noreferrer">Read more</a>
 
 ## 🔭 I'm currently working on
@@ -31,20 +31,19 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 ## 🏆 Activities & Recognitions🥇
 
-- 'TL of the month' reward for exceeding weekly & monthly goals. (Prione) 
-- Promoted to Sr. Team Lead for succesfully leading & executing Prione projects. 
-- Nominated for 'Employee of the month' for leading & executing AD projects. 
-- amazon distribution hackathon 2022 - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
+- Monthly top performer - AB SMB sales - <a href="" target="_blank" rel="noreferrer">View</a> 
+- 'Employee of the month' recognitions for leading & executing AD projects - <a href="" target="_blank" rel="noreferrer">View</a>
+- 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
+- Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>
+- Amazon Distribution hackathon 2022, paticipant award - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
                                                                                                                                   
 ## 📜 Certifications
 
-- Six Sigma Green Belt - Aviate institute
-- Google Digital marketing certification
 - Hubspot sales management certification
 - Linkedin Inside & B2B sales, Account management certification
 - K-net amazon search essentials, Data at amazon, Retail Essentials etc.,
-- Six Sigma Black Belt
-- PR & FAQ writing
+- Six Sigma Green Belt - Aviate institute
+- Google Digital marketing certification
 
 ## 💼 amazon expertise
 
