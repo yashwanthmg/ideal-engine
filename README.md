@@ -13,21 +13,27 @@ I'm a sales professional with expertise in catalog management, inventory and sup
 
 I am passionate about my work and enjoy planning and executing projects. I am always looking for ways to solve problems through innovation. I have spent a significant amount of time in the Amazon ecosystem learning about process, tools, LPs and culture which has helped me contribute effectively to my roles. I am skilled at people management and comfortable with team leadership. I am highly organized and able to delegate tasks effectively. I am also able to adapt easily to new learnings and efficiently teach myself the software and skills that I need to thrive in any environment. - <a href="https://github.com/yashwanthmg/ideal-engine/blob/a799c1d4585e1052fa5b8151ca5ff138e1e8e095/resume/README.md" target="_blank" rel="noreferrer">View Resume</a>
                                                                                                                                                       
-## 💡 My innovations 
+## 🌱 Experience
 
-- QL file automation - <a href="https://github.com/yashwanthmg/ideal-engine/tree/main/projects/QL%20automation%20script" target="_blank" rel="noreferrer">Read more</a>
-- Revenue Forecasting Tool- <a href="" target="_blank" rel="noreferrer">Read more</a>
-- Bulk File Rename Utility -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/dc84409f6127e06569eab56bac363b01d358d551/projects/Bulk%20file%20rename%20utlility/README.md" target="_blank" rel="noreferrer">Read more</a>
-- ASIN label generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/8162afb7e8ec8524c5b42d8d2ad32b610614abc3/projects/asin%20label%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
-- Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Confidential</a>
-- OS Analytics Platform - <a href="" target="_blank" rel="noreferrer">Read more</a>
-- Product content generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/Product%20content%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
-- Competitor benchmarking tool - <a href="" target="_blank" rel="noreferrer">Confidential</a>
-- Garment swap -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/garment%20swap/SwapNet-master/README.md" target="_blank" rel="noreferrer">Read more</a>
 
-## 🔭 I'm currently working on
-## 🌱 I'm currently learning
+- Amazon Business
+  Sales Associate : Dec 2022 - Present
+  Total projects handled : 02
+  Skills :
 
+- Amazon Distribution
+  Sr. Vops Associate : Apr 2022 - Nov 2022
+  Total projects handled : 04
+  Skills :
+
+- Prione Business Services Pvt Ltd
+  Sales Team Lead : Jan 2020 - Nov 2022
+  Total projects handled : 06
+  Skills :
+
+- Avis Medika
+  Sales executive : Dec 2017 - Dec 2019
+  Skills :
 
 ## 🏆 Activities & Recognitions🥇
 
@@ -45,14 +51,22 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 - Six Sigma Green Belt - Aviate institute
 - Google Digital marketing certification
 
+## 💡 My innovations 
+
+- QL file automation - <a href="https://github.com/yashwanthmg/ideal-engine/tree/main/projects/QL%20automation%20script" target="_blank" rel="noreferrer">Read more</a>
+- Revenue Forecasting Tool- <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Bulk File Rename Utility -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/dc84409f6127e06569eab56bac363b01d358d551/projects/Bulk%20file%20rename%20utlility/README.md" target="_blank" rel="noreferrer">Read more</a>
+- ASIN label generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/8162afb7e8ec8524c5b42d8d2ad32b610614abc3/projects/asin%20label%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
+- Compliance Tracker - <a href="" target="_blank" rel="noreferrer">Confidential</a>
+- OS Analytics Platform - <a href="" target="_blank" rel="noreferrer">Read more</a>
+- Product content generator -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/Product%20content%20generator/README.md" target="_blank" rel="noreferrer">Read more</a>
+- Competitor benchmarking tool - <a href="" target="_blank" rel="noreferrer">Confidential</a>
+- Garment swap -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/garment%20swap/SwapNet-master/README.md" target="_blank" rel="noreferrer">Read more</a>
+
 ## 💼 amazon expertise
 
 - Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali, Salesforce Pardot  etc
 - Process - Seller / Vendor onboarding, New ASIN Creation, Suppression, Porting & attribute changes, Image correction, PO & order management, Sponsored Ads, USI RTV & Liquidation, Brand registry, Compliance audits, Account reinstatement & activation, Gated/Restricted category approvals, QL & DP configurations, Payment & dispute resolution etc
-
-## My strengths
-
--
                                                                        
 ## 📝 Projects i have worked on
 
