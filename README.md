@@ -93,9 +93,7 @@ rupees in revenue. By employing sales expertise, I was able to identify key prof
 # Streamlining process and workflow automation
 </h4> Company: amazon business Manager: Neha Pathak
 
--  The process of removing quantity limit for CP positive, price approved ASIN were completly manual with error prone and consumed lot of time especially during ART resulting in decreased conversions impacting OPS. I devised a new workflow and created automation tools using python which helped reduce error and time consumed by 90% resulting in overall operational effeciency. Developed order sheet analysis tool 
-
-
+-  The process of removing quantity limits for CP positive and seller-approved ASINs was previously manual, error-prone and time consuming particularly during ART. This negatively impacted conversions and operational effeciency. To address this i developed a new workflow and created automation tools using Python resulting in a remarkable 90% reduction in time & errors.
 
 <h4 align ="left">   
 # USI Portfolio & Vendor Inbound Guidelines
