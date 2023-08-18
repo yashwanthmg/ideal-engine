@@ -15,23 +15,30 @@ I am passionate about my work and enjoy planning and executing projects. I am al
                                                                                                                                                       
 ## 🌱 Experience
 
-
+<h4 align ="left">   
 # Amazon Business - Sales Associate : Dec 2022 - Present
   Total projects handled : 02
+</h4>
+# 
 
 -
 
+<h4 align ="left">
 # Amazon Distribution - Sr. Vops Associate : Apr 2022 - Nov 2022
   Total projects handled : 04
+</h4>
 
 -
 
+<h4 align ="left">
 # Prione Business Services Pvt Ltd - Sales Team Lead : Jan 2020 - Nov 2022 
 Total projects handled : 06
+</h4>
 
   -
   
 # Avis Medika - Territory Sales executive : Dec 2017 - Dec 2019
+</h4>
 
   - 
 
