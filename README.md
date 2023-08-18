@@ -86,7 +86,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 Skills:
 
-- I onboarded top business accounts building their operational cashflow from zero to top revenue generating accounts, resulting in each account revenue exceeding 20 million
+- I onboarded top business accounts building their revenue from zero to top revenue generating accounts, resulting in each account revenue exceeding 20 million
 rupees. By employing sales expertise, I was able to identify key profitable categories and formulated effective strategies to overcome pricing challenges with our sellers and negotiated with customers for bulk orders. I skillfully guided the team in embracing these strategies, which not only enchanced our overall OPS but also leading to a notable boost in conversion rates and MRR.
 
 <h4 align ="left">   
