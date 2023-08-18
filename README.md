@@ -21,8 +21,6 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
   Total projects handled : 02
 
-# 
-
 -
 
 <h4 align ="left">
@@ -30,7 +28,6 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 </h4>  
   
   Total projects handled : 04
-
 
 -
 
@@ -40,13 +37,13 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
  Total projects handled : 06
 
-  -
+-
   
 <h4 align ="left">  
 # Avis Medika - Territory Sales executive : Dec 2017 - Dec 2019
 </h4>
 
-  - 
+- 
 
 ## 🏆 Activities & Recognitions🥇
 
