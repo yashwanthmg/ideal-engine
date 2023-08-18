@@ -86,14 +86,14 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 Skills:
 
-- I onboarded top business accounts building their revenue from zero to top revenue generating accounts, resulting in each account revenue exceeding 20 million
-rupees. By employing sales expertise, I was able to identify key profitable categories and formulated effective strategies to overcome pricing challenges with our sellers and negotiated with customers for bulk orders. I skillfully guided the team in embracing these strategies, which not only enchanced our overall OPS but also leading to a notable boost in conversion rates and MRR.
+- I onboarded top business accounts building them from zero to top revenue generating accounts, resulting in each account exceeding 20 million
+rupees in revenue. By employing sales expertise, I was able to identify key profitable categories and formulated effective strategies to overcome pricing challenges with our sellers and negotiated with customers for bulk orders. I skillfully guided the team in embracing these strategies, which not only enchanced our overall OPS but also leading to a notable boost in conversion rates and MRR.
 
 <h4 align ="left">   
 # Streamlining process and workflow automation
 </h4> Company: amazon business Manager: Neha Pathak
 
--  The process of removing quantity limit for CP positive, seller approved ASIN were completly manual with error prone and 
+-  The process of removing quantity limit for CP positive, price approved ASIN were completly manual with error prone and consumed lot of time especially during ART resulting in decreased conversions impacting OPS. I devised a new workflow and created automation tools using python which helped reduce error and time consumed by 90% resulting in overall operational effeciency. Developed order sheet analysis tool 
 
 
 
