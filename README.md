@@ -13,7 +13,6 @@ I'm a sales professional with an experience in account management, inventory and
 
 I am passionate about my work and enjoy planning and executing projects. I am always looking for ways to solve problems through innovation. I have spent a significant amount of time in the Amazon ecosystem learning about process, tools, LPs and culture which has helped me contribute effectively to my roles. I am skilled at CRM, negotiation, customer service, project & people management. I am highly organized and able to delegate tasks effectively & I am also able to adapt easily to new learnings and efficiently teach myself the software and skills that I need to thrive in any environment. - <a href="https://github.com/yashwanthmg/ideal-engine/blob/a799c1d4585e1052fa5b8151ca5ff138e1e8e095/resume/README.md" target="_blank" rel="noreferrer">View Resume</a>
 
-<h3 align="left"> Manager & Peer Feedback - <a href="" target="_blank" rel="noreferrer">View</a> </h3>
                                                                                                                                                       
 ## 🌱 Experience
 
@@ -40,6 +39,8 @@ I am passionate about my work and enjoy planning and executing projects. I am al
  Total projects Managed : 06
 
 -
+
+<h3 align="left"> Manager & Peer Feedback - <a href="" target="_blank" rel="noreferrer">View</a> </h3>
 
 
 ## 🏆 Activities & Recognitions🥇
