@@ -40,7 +40,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 -
 
-<h3 align="left"> Manager & Peer Feedback - <a href="" target="_blank" rel="noreferrer">View</a> </h3>
+## Manager & Peer Feedback - <a href="" target="_blank" rel="noreferrer">View</a>
 
 
 ## 🏆 Activities & Recognitions🥇
