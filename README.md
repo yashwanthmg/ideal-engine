@@ -42,11 +42,12 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 ## 🏆 Activities & Recognitions🥇
 
-- Month top performer - AB SMB sales - <a href="" target="_blank" rel="noreferrer">View</a> 
-- 'Employee of the month' recognitions for leading & executing AD projects - <a href="" target="_blank" rel="noreferrer">View</a>
-- 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
+- 'Employee of the month' recognitions for leading & executing AD projects - <a href="https://github.com/yashwanthmg/ideal-engine/blob/01ed03bf296ad65b08f2ed0258963ba7a56baf32/docs/amazon_performance/amazon_distribution/AD%20Sep%202022%20Recognitions.pdf" target="_blank" rel="noreferrer">View</a>
+- Amazon Distribution hackathon 2022, paticipant award - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">View submission</a> 
+- Monthly top performer - AB SMB sales - <a href="https://github.com/yashwanthmg/ideal-engine/blob/45eeb1f84b493f6ae5a14c0ee42fbf6bba3a684b/docs/amazon_performance/amazon_business/AB%20DD%20recognition.png" target="_blank" rel="noreferrer">View</a> 
 - Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>
-- Amazon Distribution hackathon 2022, paticipant award - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">Idea submitted</a>      
+- 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
+     
                                                                                                                                   
 ## 📜 Certifications
 
