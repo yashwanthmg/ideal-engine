@@ -37,11 +37,6 @@ I am passionate about my work and enjoy planning and executing projects. I am al
  Total projects Managed : 06
 
 
-
-## Manager & Peer Feedback (FORTE) - <a href="https://github.com/yashwanthmg/ideal-engine/blob/f201d359dec4b9062475c9c208a1f62eaed9ef45/docs/Forte/mmgyashw%20-%20Forte%20Q1%202023.pdf" target="_blank" rel="noreferrer">Read More</a>
-
-
-
 ## 🏆 Activities & Recognitions🥇
 
 - 'Employee of the month' recognitions for leading & executing AD projects - <a href="https://github.com/yashwanthmg/ideal-engine/blob/01ed03bf296ad65b08f2ed0258963ba7a56baf32/docs/amazon_performance/amazon_distribution/AD%20Sep%202022%20Recognitions.pdf" target="_blank" rel="noreferrer">View</a>
@@ -59,6 +54,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 - Six Sigma Green Belt - Aviate institute
 - Google Digital marketing certification
 
+
 ## 💡 My innovations 
 
 - QL file automation - <a href="https://github.com/yashwanthmg/ideal-engine/tree/main/projects/QL%20automation%20script" target="_blank" rel="noreferrer">Read more</a>
@@ -71,10 +67,12 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 - Competitor benchmarking tool - <a href="" target="_blank" rel="noreferrer">Confidential</a>
 - Garment swap -  <a href="https://github.com/yashwanthmg/ideal-engine/blob/1878b38a03b77f4d9c821ad7e8504a09500950c4/projects/garment%20swap/SwapNet-master/README.md" target="_blank" rel="noreferrer">Read more</a>
 
+
 ## 💼 amazon expertise
 
 - Tools - Selection Central, Bento, Procurement Portal, Trouble ticketing, Unified Portal, Jira, ETL manager, Retail assistant, Removals central, Boss (Andon cord), Image Assist, FAAST Portal, Design inspector, Denali, Salesforce Pardot  etc
 - Process - Seller / Vendor onboarding, New ASIN Creation, Suppression, Porting & attribute changes, Image correction, PO & order management, Sponsored Ads, USI RTV & Liquidation, Brand registry, Compliance audits, Account reinstatement & activation, Gated/Restricted category approvals, QL & DP configurations, Payment & dispute resolution etc
+
                                                                        
 ## 📝 Projects i have worked on
 
@@ -149,6 +147,10 @@ Company: Amazon Distribution - Manager: Arvind KR - Team: Category Management, S
 Company: Prione - Manager: Deepthi Anand & Prateik Singh - Team: Local Shops, Karnataka
 
 - Due to the steep learning curve for sellers and FOS compliance cases, incorrect products and quantities were added, resulting in unfulfilled orders. Sellers were not aware of the SOP for order confirmation and delivery, which led to ODR threshold exceeding 20%, resulting in seller account suspension. By working closely with the team, we were able to successfully reduce ODR to less than 2% through seller awareness and a mechanism for FOS to follow up on a daily basis. We also collaborated with the compliance team on account reinstatement, and two out of five deactivated accounts were reinstated by writing an effective action plan and prompt communication with the compliance team.
+
+
+
+## Manager & Peer Feedback (FORTE) - <a href="https://github.com/yashwanthmg/ideal-engine/blob/f201d359dec4b9062475c9c208a1f62eaed9ef45/docs/Forte/mmgyashw%20-%20Forte%20Q1%202023.pdf" target="_blank" rel="noreferrer">Read More</a>
 
                                                                                                                             
 
