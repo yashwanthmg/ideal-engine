@@ -80,7 +80,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 # Bulk OPS accounts
 </h4> Company: Amazon Business - Manager: Neha Pathak - Team: Dealdesk/SMB sales
 
-- I succesfully initaited and developed key business accounts, starting from scratch and transforming them into top revenue generators, resulting in exceeding 20 million rupees for each account. By employing sales expertise, I was able to identify key profitable categories and formulated effective strategies to overcome pricing challenges with our sellers and negotiated with customers for bulk orders. I skillfully guided the team in embracing these strategies, which not only enchanced our overall OPS but also leading to a notable boost in conversion rates and MRR.
+- I succesfully initaited and developed key business accounts, starting from scratch and transforming them into top revenue generators, with revenue exceeding 20 million rupees for each account. By employing sales expertise, I was able to identify key profitable categories and formulated effective strategies to overcome pricing challenges with our sellers and negotiated with customers for bulk orders. I skillfully guided the team in embracing these strategies, which not only enchanced our overall OPS but also leading to a notable boost in conversion rates and MRR.
 
 <h4 align ="left">   
 # Streamlining process and workflow automation
@@ -91,8 +91,6 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 <h4 align ="left">   
 # S3P Ticketing system
 </h4> Company: Amazon Business - Manager: Neha Pathak - Team: Dealdesk/SMB sales
-
--
 
 <h4 align ="left">   
 # USI Portfolio & Vendor Inbound Guidelines
