@@ -19,21 +19,16 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 <h4 align ="left">   
 # Amazon Business - Sales Associate : Mar 2023 - Present
 </h4>
-
   Total projects Managed : 03
-
 
 <h4 align ="left">
 # Amazon Distribution - Sr. Vops Associate : Apr 2022 - Mar 2023
-</h4>  
-  
+</h4>    
   Total projects Managed : 04
-
 
 <h4 align ="left">
 # Prione Business Services Pvt Ltd - Sales Team Lead : Jan 2020 - Nov 2022 
 </h4>
-
  Total projects Managed : 06
 
 
