@@ -20,7 +20,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 # Amazon Business - Sales Associate : Mar 2023 - Present
 </h4>
 
-  Total projects Managed : 02
+  Total projects Managed : 03
 
 
 <h4 align ="left">
@@ -78,20 +78,26 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 <h4 align ="left">   
 # Bulk OPS accounts
-</h4> Company: Amazon Business - Manager: Neha Pathak - Team: SMB/Dealdesk
+</h4> Company: Amazon Business - Manager: Neha Pathak - Team: Dealdesk/SMB sales
 
 - I onboarded top business accounts building them from zero to top revenue generating accounts, resulting in each account exceeding 20 million
 rupees in revenue. By employing sales expertise, I was able to identify key profitable categories and formulated effective strategies to overcome pricing challenges with our sellers and negotiated with customers for bulk orders. I skillfully guided the team in embracing these strategies, which not only enchanced our overall OPS but also leading to a notable boost in conversion rates and MRR.
 
 <h4 align ="left">   
 # Streamlining process and workflow automation
-</h4> Company: Amazon Business - Manager: Neha Pathak - Team: SMB/Dealdesk
+</h4> Company: Amazon Business - Manager: Neha Pathak - Team: Dealdesk/SMB sales
 
 -  The process of removing quantity limits for CP positive and seller-approved ASINs was previously manual, error-prone and time consuming particularly during ART. This negatively impacted conversions and operational effeciency. To address this i developed a new workflow and created automation tools using Python resulting in a remarkable 90% reduction in time & errors.
 
 <h4 align ="left">   
+# S3P Ticketing system
+</h4> Company: Amazon Business - Manager: Neha Pathak - Team: Dealdesk/SMB sales
+
+-
+
+<h4 align ="left">   
 # USI Portfolio & Vendor Inbound Guidelines
-</h4> Company: Amazon Distribution - Manager: Neha Pathak - Team: Instock, Softlines
+</h4> Company: Amazon Distribution - Manager: Neha Pathak - Team: Instock Management, Softlines
 
 - SL USI% increased to 0.44% in Aug’22 exit (vs goal of 1%). I started leading the USI (Unsellable Inventory management) portfolio by setting up weekly mechanism with FC to identify ASIN level causes of unsellable inventory. I identified 2 major reasons of USI- a) MRP tags missing in the products either via C-return route or during supply from vendors b) minor refurbishment pending with FC for the c-return products and worked with all 13 vendors to supply separate MRP tags to FC for monthly correction of inventory. My findings also lead to modification of our Inbound and packaging vendor training deck to avoid “MRP tag misses” during vendor’s packaging process. Due to this efforts, USI% decreased to 0.08% in WK 39 (sep’22 exit).
 
