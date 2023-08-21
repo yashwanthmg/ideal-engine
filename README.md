@@ -17,20 +17,18 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 ## 🌱 Experience
 
 <h4 align ="left">   
-# Amazon Business - Sales Associate : Dec 2022 - Present
+# Amazon Business - Sales Associate : Mar 2023 - Present
 </h4>
 
   Total projects Managed : 02
 
--
 
 <h4 align ="left">
-# Amazon Distribution - Sr. Vops Associate : Apr 2022 - Nov 2022
+# Amazon Distribution - Sr. Vops Associate : Apr 2022 - Mar 2023
 </h4>  
   
   Total projects Managed : 04
 
--
 
 <h4 align ="left">
 # Prione Business Services Pvt Ltd - Sales Team Lead : Jan 2020 - Nov 2022 
@@ -38,9 +36,8 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
  Total projects Managed : 06
 
--
 
-## Manager & Peer Feedback - <a href="" target="_blank" rel="noreferrer">View</a>
+## Manager & Peer Feedback (FORTE) - <a href="https://github.com/yashwanthmg/ideal-engine/blob/f201d359dec4b9062475c9c208a1f62eaed9ef45/docs/Forte/mmgyashw%20-%20Forte%20Q1%202023.pdf" target="_blank" rel="noreferrer">Read More</a>
 
 
 ## 🏆 Activities & Recognitions🥇
