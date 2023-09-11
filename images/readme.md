@@ -21,7 +21,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 </h4>
 
 - Total projects Managed : 03
-- Contributions : 
+- Key Achievments :
 - Recognitions :
   * 'Employee of the month' recognitions for leading & executing AD projects - <a href="https://github.com/yashwanthmg/ideal-engine/blob/01ed03bf296ad65b08f2ed0258963ba7a56baf32/docs/amazon_performance/amazon_distribution/AD%20Sep%202022%20Recognitions.pdf" target="_blank" rel="noreferrer">View</a>.
   * Amazon Distribution hackathon 2022, paticipant award - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">View submission</a>.
@@ -39,7 +39,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 </h4>
 
 - Total projects Managed : 04
-- Contributions : 
+- Key Achievments :
 - Recognitions :
 - Skills:
 - Innovations:
@@ -50,7 +50,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 </h4>
 
 - Total projects Managed : 06
-- Contributions : 
+- Key Achievments :
 - Recognitions :
   * Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>.
   * 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
@@ -63,21 +63,21 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 </h4>
 
 - Total projects Managed : 06
-- Contributions : 
+- Key Achievments : 
 - Recognitions : 
 - Skills:
 - Innovations:
 - Feedback: 
 
                                                                                                                    
-## 📜 Certifications
+## 📜 Courses
 
--Certifications
- * Hubspot sales management certification
- * Linkedin Inside & B2B sales, Account management certification
- * K-net amazon search essentials, Data at amazon, Retail Essentials etc.,
- * Six Sigma Green Belt - Aviate institute
- * Google Digital marketing certification
+- Certifications
+  * Hubspot sales management certification
+  * Linkedin Inside & B2B sales, Account management certification
+  * K-net amazon search essentials, Data at amazon, Retail Essentials etc.,
+  * Six Sigma Green Belt - Aviate institute
+  * Google Digital marketing certification
 
 
 ## 💡 Volunteering
