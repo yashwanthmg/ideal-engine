@@ -73,6 +73,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 ## 📜 Courses
 
 - Certifications
+- 
   * Hubspot sales management certification
   * Linkedin Inside & B2B sales, Account management certification
   * K-net amazon search essentials, Data at amazon, Retail Essentials etc.,
