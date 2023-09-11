@@ -19,49 +19,49 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 <h4 align ="left">   
 # Amazon Business - Sr. Associate: Sales & Operations : Apr 2022 - Present
 </h4>
-  Total projects Managed : 03
-  Contributions : 
-  Recognitions : 
+- Total projects Managed : 03
+- Contributions : 
+- Recognitions : 
   -'Employee of the month' recognitions for leading & executing AD projects - <a href="https://github.com/yashwanthmg/ideal-engine/blob/01ed03bf296ad65b08f2ed0258963ba7a56baf32/docs/amazon_performance/amazon_distribution/AD%20Sep%202022%20Recognitions.pdf" target="_blank" rel="noreferrer">View</a>
   - Amazon Distribution hackathon 2022, paticipant award - <a href="https://hack.amazon.com/#adhackathon/ideas/52274" target="_blank" rel="noreferrer">View submission</a> 
   - Monthly top performer - AB SMB sales - <a href="https://github.com/yashwanthmg/ideal-engine/blob/45eeb1f84b493f6ae5a14c0ee42fbf6bba3a684b/docs/amazon_performance/amazon_business/AB%20DD%20recognition.png" target="_blank" rel="noreferrer">View</a> 
-  Skills:
-  Innovations:
-  Feedback: 
+- Skills:
+- Innovations:
+- Feedback: 
   
 <h4 align ="left">
 # Blubirch - Manager : Apr 2022 - Mar 2023
 </h4>    
-  Total projects Managed : 04
-  Contributions : 
-  Recognitions :
-  Skills:
-  Innovations:
-  Feedback: 
+- Total projects Managed : 04
+- Contributions : 
+- Recognitions :
+- Skills:
+- Innovations:
+- Feedback: 
   
 <h4 align ="left">
 # Prione Business Services Pvt Ltd - Sales Team Lead : Jan 2020 - Nov 2022 
 </h4>
-  Total projects Managed : 06
-  Contributions : 
-  Recognitions : 
+- Total projects Managed : 06
+- Contributions : 
+- Recognitions : 
   - Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>
   - 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
-  Skills:
-  Innovations:
-  Feedback: 
+- Skills:
+- Innovations:
+- Feedback: 
 
 <h4 align ="left">
 # Avis Medika - Territory Sales executive : Jan 2017 - Dec 2019 
 </h4>
-  Total projects Managed : 06
-  Contributions : 
-  Recognitions : 
+- Total projects Managed : 06
+- Contributions : 
+- Recognitions : 
   - Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>
   - 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
-  Skills:
-  Innovations:
-  Feedback: 
+- Skills:
+- Innovations:
+- Feedback: 
 
                                                                                                                    
 ## 📜 Certifications
