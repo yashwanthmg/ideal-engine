@@ -72,12 +72,21 @@ I am passionate about my work and enjoy planning and executing projects. I am al
                                                                                                                    
 ## 📜 Certifications
 
-- Hubspot sales management certification
-- Linkedin Inside & B2B sales, Account management certification
-- K-net amazon search essentials, Data at amazon, Retail Essentials etc.,
-- Six Sigma Green Belt - Aviate institute
-- Google Digital marketing certification
+-Certifications
+ * Hubspot sales management certification
+ * Linkedin Inside & B2B sales, Account management certification
+ * K-net amazon search essentials, Data at amazon, Retail Essentials etc.,
+ * Six Sigma Green Belt - Aviate institute
+ * Google Digital marketing certification
 
+
+## 💡 Volunteering
+
+## 🏆 Memberships
+
+## 🏆 Publications
+
+## 🏆 Personal Info
 
                                                                        
 ## 📝 Projects i have worked on
