@@ -28,6 +28,9 @@ I am passionate about my work and enjoy planning and executing projects. I am al
   * Monthly top performer - AB SMB sales - <a href="https://github.com/yashwanthmg/ideal-engine/blob/45eeb1f84b493f6ae5a14c0ee42fbf6bba3a684b/docs/amazon_performance/amazon_business/AB%20DD%20recognition.png" target="_blank" rel="noreferrer">View</a> 
 
 - Skills:
+  * Project,People & Key Account Management
+  * Strong Communication & Negotiation
+  *  
 - Innovations:
 - Feedback: 
   
@@ -48,7 +51,9 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 - Total projects Managed : 06
 - Contributions : 
-- Recognitions : Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>. 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
+- Recognitions :
+  * Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>.
+  * 'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
 - Skills:
 - Innovations:
 - Feedback: 
@@ -59,7 +64,7 @@ I am passionate about my work and enjoy planning and executing projects. I am al
 
 - Total projects Managed : 06
 - Contributions : 
-- Recognitions : Promoted to Sr. Team Lead for succesfully leading & executing Prione projects - <a href="" target="_blank" rel="noreferrer">View</a>.'TL of the month' awards for exceeding weekly & monthly goals. (Prione) - <a href="" target="_blank" rel="noreferrer">View</a>
+- Recognitions : 
 - Skills:
 - Innovations:
 - Feedback: 
